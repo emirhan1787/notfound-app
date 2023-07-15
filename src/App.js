@@ -6,7 +6,7 @@ function App() {
   return (
     <div className='mainContainer'>
       <div className='headerDiv'>
-        <text className='headerText'>404 NOT FOUND</text>  
+        <text className='headerText'>403 NOT FOUND</text>  
       </div>
       <br></br>
       <div className='mainDiv'>
